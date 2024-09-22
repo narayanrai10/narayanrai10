@@ -27,9 +27,8 @@ Welcome to my GitHub profile! I'm passionate about algorithmic trading and backt
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
 
-- LinkedIn: <a href = "https://www.linkedin.com/in/narayan-rai-bb7535254/" target="_blank" > My Linkedin Profile </a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/narayan-rai-bb7535254/" target="_blank" > [My Linkedin Profile]([url](https://www.linkedin.com/in/narayan-rai-bb7535254/){:target="_blank"}) </a>
 - Email: rain@miamioh.edu
-<a href="http://google.com/" 
-  target="_blank">Hello, google!</a>
+
   
 Thanks for visiting my profile! 😊
