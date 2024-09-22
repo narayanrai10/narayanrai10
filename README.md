@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Narayan Rai👋
+
+Welcome to my GitHub profile! I'm passionate about algorithmic trading and backtesting. Here you'll find various projects and code snippets related to trading strategies, data analysis, and more.
 
 <!--
 **narayanrai10/narayanrai10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
