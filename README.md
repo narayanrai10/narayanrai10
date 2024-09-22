@@ -2,6 +2,13 @@
 
 Welcome to my GitHub profile! I'm passionate about algorithmic trading and backtesting. Here you'll find various projects and code snippets related to trading strategies, data analysis, and more.
 
+## About Me
+
+- 🔭 I’m currently working on algorithmic trading strategies
+- 🌱 I’m learning machine learning and its applications in trading
+- 💬 Ask me about trading algorithms, backtesting, and data analysis
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: I love exploring new trading strategies and optimizing them for better performance
 <!--
 **narayanrai10/narayanrai10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
