@@ -27,12 +27,8 @@ Welcome to my GitHub profile! I'm passionate about algorithmic trading and backt
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
 
-plugins:
-  - search
-  - open-in-new-tab
-markdown_extensions:
-  - attr_list
--[LinkedIn Profile]:  https://www.linkedin.com/in/narayan-rai-bb7535254/
+
+-[LinkedIn Profile]: https://www.linkedin.com/in/narayan-rai-bb7535254/
 - Email: rain@miamioh.edu
 
   
