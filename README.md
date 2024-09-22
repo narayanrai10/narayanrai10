@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm passionate about algorithmic trading and backt
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/narayan-rai-bb7535254/)
-- Twitter
 - Email: [rain@miamioh.edu](rain@miamioh.edu)
 
 Thanks for visiting my profile! 😊
