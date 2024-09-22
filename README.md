@@ -29,6 +29,7 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
 
 - LinkedIn: <a href = "https://www.linkedin.com/in/narayan-rai-bb7535254/" target="_blank" > My Linkedin Profile </a>
 - Email: rain@miamioh.edu
-<a href="http://google.com/" target="_blank">Hello, google!</a>
+<a href="http://google.com/" 
+  target="_blank">Hello, google!</a>
   
 Thanks for visiting my profile! 😊
