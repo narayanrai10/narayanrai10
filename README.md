@@ -31,7 +31,7 @@ markdown_extensions:
   - attr_list
 
 
--LinkedIn Profile: [My LinkedIn Profile](https://www.linkedin.com/in/narayan-rai-bb7535254/)({:target="_blank"})
+- LinkedIn: My LinkedIn Profile{:target="_blank"}
 - Email: rain@miamioh.edu
 
   
