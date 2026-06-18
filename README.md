@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about algorithmic trading and backt
 - 🔭 I’m currently working on algorithmic trading strategies
 - 🌱 I’m learning machine learning and its applications in trading
 - 💬 Ask me about trading algorithms, backtesting, and data analysis
-- 📫 How to reach me: Email: rain@miamioh.edu
+- 📫 How to reach me: Email: rainarayan50@gmail.com
 - ⚡ Fun fact: I love exploring new trading strategies and optimizing them for better performance
 
 ## Projects
@@ -28,6 +28,6 @@ Welcome to my GitHub profile! I'm passionate about algorithmic trading and backt
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
 
 - LinkedIn: <a href="https://www.linkedin.com/in/narayan-rai-bb7535254/"  target="_blank">My LinkedIn Profile</a>
-- Email: rain@miamioh.edu
+- Email: rainarayan50@gmail.com
 
 Thanks for visiting my profile! 😊
