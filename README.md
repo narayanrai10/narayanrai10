@@ -1,33 +1,35 @@
-## Hi there, I'm Narayan Rai👋
+Hi, I'm Narayan Rai 👋
 
-Welcome to my GitHub profile! I'm passionate about algorithmic trading and backtesting. Here you'll find various projects and code snippets related to trading strategies, data analysis, and more.
+Computer Information Technology graduate from Miami University (B.S., May 2026). I build full-stack web applications and care about the unglamorous parts: clean data models, parameterized queries, forms that don't break when users do weird things.
 
-## About Me
+What I work on
 
-- 🔭 I’m currently working on algorithmic trading strategies
-- 🌱 I’m learning machine learning and its applications in trading
-- 💬 Ask me about trading algorithms, backtesting, and data analysis
-- 📫 How to reach me: Email: rainarayan50@gmail.com
-- ⚡ Fun fact: I love exploring new trading strategies and optimizing them for better performance
+Full-stack web development — PHP/MySQL, JavaScript, HTML/CSS. I learn by building end-to-end: schema, backend, front-end views, validation.
+Database design — normalized relational schemas, parameterized queries, and the discipline to never trust user input.
+Agile delivery — ICAGILE-certified (Fundamentals, DevOps, Project & Delivery Management, Business Value Analysis). I think about how work actually gets shipped, not just written.
 
-## Projects
 
-### Algorithmic Trading Strategies
+What I'm looking for
 
-- **Moving Averages Strategy**: A simple strategy using moving averages to generate buy/sell signals.
-- **VWAP Strategy**: A strategy based on the Volume Weighted Average Price (VWAP) indicator.
-- **Machine Learning Strategy**: Using machine learning models to predict stock prices and generate trading signals.
+Entry-level Implementation Engineer, Solutions Engineer, IT Support, or Junior Developer roles where I can translate customer or business requirements into working configurations. Open to remote, hybrid, or on-site in the Cincinnati / Hamilton, OH area.
 
-### Data Analysis
+Featured projects
 
-- **Data Retrieval**: Scripts to retrieve historical market data using the Polygon.io API.
-- **Data Cleaning**: Tools to clean and preprocess market data for analysis.
+Pinned repos below show my strongest work — pick one to start with, each has a README explaining what it does and how to run it.
 
-## Get in Touch
+Tech I use
 
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
+Languages: Python · Java · JavaScript · PHP · SQL · HTML/CSS
+Databases: MySQL
+Tools: Git · Docker (intro) · Linux command line · VS Code
 
-- LinkedIn: <a href="https://www.linkedin.com/in/narayan-rai-bb7535254/"  target="_blank">My LinkedIn Profile</a>
-- Email: rainarayan50@gmail.com
+Get in touch
 
-Thanks for visiting my profile! 😊
+
+📫 Email: rainarayan50@gmail.com
+💼 LinkedIn: narayan-rai
+📍 Location: Hamilton, OH (Eastern Time)
+
+
+
+Currently looking for full-time entry-level roles starting summer 2026. If you're hiring, reach out — I respond within 24 hours.
